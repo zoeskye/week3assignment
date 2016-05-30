@@ -1,0 +1,42 @@
+body {
+	font-size: 16px;
+	color: darkgray;
+	background: lightblue;
+}
+
+}
+/** NAVBAR **/
+.navbar-header button.navbar.toggle, .navbar-header .icon-bar {
+	border: .5px solid lightblue;
+}
+h2 {
+	color: black;
+}
+h3 {
+	color: darkgray;
+}
+.navbar-brand {
+	font-size: 24px;
+}
+.second-container {
+	font-size: 20px;
+}
+/** CHICKEN **/
+.third-container {
+	font-size: 16px;
+	background-color: lightblue;
+	}
+/** DROPDOWN MENU **/
+.navbar-header button.navbar*-toggle {
+	clear: both;
+}
+#nav-list a {	
+	text-align: center;
+	background: gray;
+	color: white;
+	font-style: bold;
+}
+#nav-list a:hover {
+	background: lightblue;
+	color: white;
+}
